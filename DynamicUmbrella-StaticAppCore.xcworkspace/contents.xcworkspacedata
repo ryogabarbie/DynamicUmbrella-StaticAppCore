@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Feature10/Feature10.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Feature9/Feature9.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Feature8/Feature8.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Feature7/Feature7.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Feature6/Feature6.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Feature5/Feature5.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Feature4/Feature4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Feature3/Feature3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Feature2/Feature2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Feature1/Feature1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Umbrella/Umbrella.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AppCore/AppCore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SampleApp/SampleApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
